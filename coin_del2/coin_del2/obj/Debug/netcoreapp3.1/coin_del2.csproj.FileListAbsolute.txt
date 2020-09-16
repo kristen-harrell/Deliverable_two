@@ -1,0 +1,13 @@
+C:\Users\harre\source\repos\coin_del2\coin_del2\obj\Debug\netcoreapp3.1\coin_del2.csprojAssemblyReference.cache
+C:\Users\harre\source\repos\coin_del2\coin_del2\obj\Debug\netcoreapp3.1\coin_del2.AssemblyInfoInputs.cache
+C:\Users\harre\source\repos\coin_del2\coin_del2\obj\Debug\netcoreapp3.1\coin_del2.AssemblyInfo.cs
+C:\Users\harre\source\repos\coin_del2\coin_del2\obj\Debug\netcoreapp3.1\coin_del2.csproj.CoreCompileInputs.cache
+C:\Users\harre\source\repos\coin_del2\coin_del2\bin\Debug\netcoreapp3.1\coin_del2.exe
+C:\Users\harre\source\repos\coin_del2\coin_del2\bin\Debug\netcoreapp3.1\coin_del2.deps.json
+C:\Users\harre\source\repos\coin_del2\coin_del2\bin\Debug\netcoreapp3.1\coin_del2.runtimeconfig.json
+C:\Users\harre\source\repos\coin_del2\coin_del2\bin\Debug\netcoreapp3.1\coin_del2.runtimeconfig.dev.json
+C:\Users\harre\source\repos\coin_del2\coin_del2\bin\Debug\netcoreapp3.1\coin_del2.dll
+C:\Users\harre\source\repos\coin_del2\coin_del2\bin\Debug\netcoreapp3.1\coin_del2.pdb
+C:\Users\harre\source\repos\coin_del2\coin_del2\obj\Debug\netcoreapp3.1\coin_del2.dll
+C:\Users\harre\source\repos\coin_del2\coin_del2\obj\Debug\netcoreapp3.1\coin_del2.pdb
+C:\Users\harre\source\repos\coin_del2\coin_del2\obj\Debug\netcoreapp3.1\coin_del2.genruntimeconfig.cache
