@@ -1,0 +1,15 @@
+﻿@model Rootobject
+
+<h2>Here is all my awesome art!</h2>
+
+<p>Artist info:</p>
+
+@foreach (Gallery r in Model.results.Skip(1))
+    {
+    <p>username: @r.author.username</p>
+    <img src= "@r.author.usericon" alt="user-icon-not-available">
+    <p>Title: @r.title</p>
+    <img src="@r.content.src" alt="pic" width="300px" />
+
+    }
+    
